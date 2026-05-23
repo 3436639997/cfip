@@ -10,10 +10,12 @@
 
 ## 🔗 订阅链接
 
+> **⚠️ 注意：** 新增使用R2存储的新链接,推荐使用!
+
 | 线路分类 | 高速优选 (推荐) | 所有可用 (适合二次测速) |
 | --- | --- | --- |
-| **四川联通** | [点击复制](https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/best_ips.txt) | [点击复制](https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/full_ips.txt) |
-| **北京电信 ✨** | [点击复制](http://cf.junzhen.qzz.io/best_ips_bj.txt) | [点击复制](https://cf.junzhen.qzz.io/full_ips_bj.txt) |
+| **四川联通** | [https://cf.junzhen.qzz.io/best_ips.txt](https://cf.junzhen.qzz.io/best_ips.txt) | [https://cf.junzhen.qzz.io/full_ips.txt](https://cf.junzhen.qzz.io/full_ips.txt) |
+| **北京电信 ✨** | [http://cf.junzhen.qzz.io/best_ips_bj.txt](http://cf.junzhen.qzz.io/best_ips_bj.txt) | [https://cf.junzhen.qzz.io/full_ips_bj.txt](https://cf.junzhen.qzz.io/full_ips_bj.txt) |
 
 ### 💡 链接区别说明
 
