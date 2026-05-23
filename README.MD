@@ -1,7 +1,7 @@
 # 🌐 Cloudflare 优选 IP
 
 
-**本次更新**: 2026-05-23 22:48:48
+**本次更新**: 2026-05-23 23:50:51
 > **✨ 新增节点**: 北京电信优选    
 > **测试环境**: 中国四川联通 / 北京电信    
 > **更新频率**: 每 45 分钟自动更新    
@@ -15,7 +15,7 @@
 | 线路分类 | 高速优选 (推荐) | 所有可用 (适合二次测速) |
 | --- | --- | --- |
 | **四川联通** | [https://cf.junzhen.qzz.io/best_ips.txt](https://cf.junzhen.qzz.io/best_ips.txt) | [https://cf.junzhen.qzz.io/full_ips.txt](https://cf.junzhen.qzz.io/full_ips.txt) |
-| **北京电信 ✨** | [http://cf.junzhen.qzz.io/best_ips_bj.txt](http://cf.junzhen.qzz.io/best_ips_bj.txt) | [https://cf.junzhen.qzz.io/full_ips_bj.txt](https://cf.junzhen.qzz.io/full_ips_bj.txt) |
+| **北京电信 ✨** | [https://cf.junzhen.qzz.io/best_ips_bj.txt](https://cf.junzhen.qzz.io/best_ips_bj.txt) | [https://cf.junzhen.qzz.io/full_ips_bj.txt](https://cf.junzhen.qzz.io/full_ips_bj.txt) |
 
 ### 💡 链接区别说明
 
