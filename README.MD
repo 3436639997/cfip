@@ -1,26 +1,25 @@
 # 🌐 Cloudflare 优选 IP
 
 
-**本次更新**: 2026-06-19 12:20:02
-> **✨ 新增节点**: 北京电信优选    
-> **测试环境**: 中国四川联通 / 北京电信    
-> **更新频率**: 每 45 分钟自动更新    
+**本次更新**: 自动同步上游并筛选
+> **筛选规则**: 每个国家/地区保留速度最快的 5 个节点    
+> **备注格式**: 节点国家/地区缩写已转换为中文名    
+> **更新频率**: GitHub Actions 定时自动更新    
 
 ---
 
 ## 🔗 订阅链接
 
-> **⚠️ 注意：** 现使用R2存储的新订阅链接,更快更推荐!
+> **⚠️ 注意：** 以下链接来自本 fork，会自动同步上游并按规则过滤。
 
 | 线路分类 | 高速优选 (推荐) | 所有可用 (适合二次测速) |
 | --- | --- | --- |
-| **四川联通** | [https://cf.junzhen.qzz.io/best_ips.txt](https://cf.junzhen.qzz.io/best_ips.txt) | [https://cf.junzhen.qzz.io/full_ips.txt](https://cf.junzhen.qzz.io/full_ips.txt) |
-| **北京电信 ✨** | [https://cf.junzhen.qzz.io/best_ips_bj.txt](https://cf.junzhen.qzz.io/best_ips_bj.txt) | [https://cf.junzhen.qzz.io/full_ips_bj.txt](https://cf.junzhen.qzz.io/full_ips_bj.txt) |
+| **过滤订阅** | [https://raw.githubusercontent.com/3436639997/cfip/refs/heads/main/best_ips.txt](https://raw.githubusercontent.com/3436639997/cfip/refs/heads/main/best_ips.txt) | [https://raw.githubusercontent.com/3436639997/cfip/refs/heads/main/full_ips.txt](https://raw.githubusercontent.com/3436639997/cfip/refs/heads/main/full_ips.txt) |
 
 ### 💡 链接区别说明
 
-* **高速优选**: 已通过自动化测速，直接筛选出的最优节点，**强烈推荐小白用户直接使用**。
-* **所有可用**: 筛选出各地区延迟最低的前 10 个节点，不保证最终吞吐速度，适合有进阶需求的用户二次筛选。
+* **高速优选**: 基于上游 `best_ips.txt`，每个国家/地区最多保留 5 个，备注改为中文名。
+* **所有可用**: 基于上游 `full_ips.txt`，按速度字段排序后每个国家/地区最多保留 5 个，备注改为中文名。
 
 ---
 
